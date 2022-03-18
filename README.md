@@ -21,6 +21,9 @@
 + i have `csps.js` to Listens to ALL events in the Event Pool.and Logs a timestamp and the payload of every event.
 
 ## test action
+
+*I did test that all the event are working when i console.log*
+
 ![caps test](./capsTestImg/capsTest.png)
 
 
@@ -28,5 +31,5 @@
 
 ![caps uml](./UML/caps.jpg)
 
-+ [pull req]()
-+ [actions]()
++ [pull req](https://github.com/hala277/caps/pull/1)
++ [actions](https://github.com/hala277/caps/actions)
